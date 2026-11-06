@@ -40,6 +40,3 @@ This lab is for learning and authorized practice only. Only test systems that yo
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Kali Linux](https://www.kali.org/get-kali/)
 
-## Author
-
-**Aakash**
